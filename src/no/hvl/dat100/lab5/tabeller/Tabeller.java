@@ -28,7 +28,7 @@ public class Tabeller {
 		return svar;
 	}
 
-	// c)
+	//  c)
 	public static int summer(int[] tabell) {
 		/* int sum = 0;
 		for (int i = 0;i<tabell.length;i++) {
